@@ -33,5 +33,6 @@ npm start
 ## Credits
 
 This website uses icons from font awesome.
+THANKS TO @Manoj => NULL CLASS INSTRUCTOR FOR GUIDING THE PROJECT
 
 
